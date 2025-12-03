@@ -1,4 +1,4 @@
-# Reactive GUIs 
+# Reactive GUIs
 
 ## Instructions
 
